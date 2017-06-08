@@ -30,6 +30,8 @@ $ git push <分支名稱>:master
 $ heroku run rake db:migrate
 ```
 
+<br/>
+
 # **查看設定 & 歷程**
 
 - 檢查專案的遠端路徑（ GitHub、Heroku）。
@@ -43,6 +45,8 @@ $ git remote -v
 ```
 $ heroku logs
 ```
+
+<br/>
 
 # **Heroku 正式端資料**
 
