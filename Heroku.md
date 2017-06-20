@@ -139,10 +139,9 @@ $ heroku access
 $ heroku access:remove <電子郵件地址>
 ```
 
-------
-
 <br/>
+<hr/>
 
-有任何開發上的問題，都可以透過 Slack：xbearx1987、anndo-2 找到吉米或我，我們很樂意為你解答。
+##### 來源：
 
-**如果你覺得教程對你有幫助，希望你能至<a href="https://fullstack.xinshengdaxue.com/works/558" target="_blank">我們的作品 J & A SELECT</a >投下寶貴的一票！你的投票，代表的是對好作品、好教程的支持與鼓勵，也會成為我們持續分享的動力。**
+<a href="http://anndo-blog.logdown.com/" target="_blank"> Anndo </a>
